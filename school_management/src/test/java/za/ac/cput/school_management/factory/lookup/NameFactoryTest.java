@@ -5,6 +5,12 @@ import za.ac.cput.school_management.domain.lookup.Name;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/*
+Lyle Haines - 217245919
+ADP3 JUNE ASSIGNMENT
+EmployeeAddressService.java
+*/
+
 class NameFactoryTest {
 
     @Test
